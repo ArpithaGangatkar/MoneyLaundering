@@ -35,7 +35,6 @@ from one month of financial logs from a mobile money service implemented in an A
 - 'PyCharm' is used as an IDE.
 - For EDA , 'Pandas' and 'Numpy' are used.
 - For  visualization , 'Matplotlib' and 'Seaborn' are used.
-- 'Heroku Cloud Platform' is used for deployment of the model.
 - Front end development is done using 'HTML/CSS'
 - 'Flask' framework is used for backend development
 - 'GitHub' is used as a version control system.
